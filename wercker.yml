@@ -1,0 +1,7 @@
+box: matsen/cowsay-env
+
+build:
+    steps:
+        - script:
+            name: build
+            code: make
