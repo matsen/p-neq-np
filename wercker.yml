@@ -1,4 +1,4 @@
-box: matsen/cowsay-env
+box: matsen/cowsay-build-env
 
 build:
     steps:
